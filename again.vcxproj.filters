@@ -13,34 +13,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\source\vst2.x\audioeffect.cpp">
-      <Filter>Source Files\vst2.x</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\source\vst2.x\audioeffectx.cpp">
-      <Filter>Source Files\vst2.x</Filter>
-    </ClCompile>
     <ClCompile Include="Interceptor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\public.sdk\source\vst2.x\audioeffect.cpp">
+      <Filter>Source Files\vst2.x</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\public.sdk\source\vst2.x\audioeffectx.cpp">
+      <Filter>Source Files\vst2.x</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\source\vst2.x\aeffeditor.h">
-      <Filter>Source Files\vst2.x</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\source\vst2.x\audioeffect.h">
-      <Filter>Source Files\vst2.x</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\source\vst2.x\audioeffectx.h">
-      <Filter>Source Files\vst2.x</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\pluginterfaces\vst2.x\aeffect.h">
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\pluginterfaces\vst2.x\aeffect.h">
       <Filter>Interfaces</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\pluginterfaces\vst2.x\aeffectx.h">
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\pluginterfaces\vst2.x\aeffectx.h">
       <Filter>Interfaces</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\pluginterfaces\vst2.x\vstfxstore.h">
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\pluginterfaces\vst2.x\vstfxstore.h">
       <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\public.sdk\source\vst2.x\aeffeditor.h">
+      <Filter>Source Files\vst2.x</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\public.sdk\source\vst2.x\audioeffect.h">
+      <Filter>Source Files\vst2.x</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\dev\vst_sdk2_4\vstsdk2.4 - Copy\public.sdk\source\vst2.x\audioeffectx.h">
+      <Filter>Source Files\vst2.x</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
